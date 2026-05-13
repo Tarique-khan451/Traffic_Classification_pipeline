@@ -1,4 +1,4 @@
-mport pickle
+import pickle
 from sklearn.linear_model import LogisticRegression
 from sklearn.svm import SVC
 from sklearn.naive_bayes import MultinomialNB
